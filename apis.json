@@ -1,0 +1,67 @@
+{
+    "name": "Straker Translations",
+    "description": "<p>Straker Translations is revolutionizing the translation industry by offering fast, efficient and cost effective translations with their unique pay-per-hour translation model, it enables clients to significantly reduce their ongoing translation costs as well as simplifying the translation process.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/straker-translation.png",
+    "tags": [
+        "content",
+        "have api",
+        "human translation",
+        "languages",
+        "translations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/straker-translations\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Straker Translations",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/straker-translation.png",
+            "humanURL": "http:\/\/straker.ie",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/straker-translations-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.strakertranslations.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.straker.ie\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/straker-translations"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/straker.ie\/products\/translation-api\/en\/translation-api_home.cfm"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.straker.ie\/translation-pricing\/"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.straker.ie\/translation-pricing\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/strakerglobal"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/straker.ie"
+        }
+    ]
+}
